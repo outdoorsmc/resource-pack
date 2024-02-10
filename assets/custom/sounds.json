@@ -1,0 +1,56 @@
+{
+  "here_comes_the_money": {
+    "sounds": [
+      "custom:here_comes_the_money"
+    ]
+  },
+
+  "reveal": {
+    "sounds": [
+      "custom:reveal"
+    ]
+  },
+
+  "apple_pay": {
+    "sounds": [
+      "custom:apple_pay"
+    ]
+  },
+
+  "spongebob_sad": {
+    "sounds": [
+      "custom:spongebob_sad"
+    ]
+  },
+
+  "kaching": {
+    "sounds": [
+      "custom:kaching"
+    ]
+  },
+
+  "reboot_short": {
+    "sounds": [
+      "custom:reboot_short"
+    ]
+  },
+
+  "squeak": {
+    "sounds": [
+      "custom:squeak"
+    ]
+  },
+
+  "tindy_message": {
+    "sounds": [
+      "custom:tindy_message"
+    ]
+  },
+
+  "lock": {
+    "sounds": [
+      "custom:lock"
+    ]
+  }
+
+}

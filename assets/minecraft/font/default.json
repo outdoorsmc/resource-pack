@@ -1,9 +1,9 @@
 {
 	"providers": [
-		{"type": "bitmap", "file": "minecraft:font/ranks/femboy 1.png","ascent": 7,"height": 7, "chars": ["\uE420"]},
-		{"type": "bitmap", "file": "minecraft:font/ranks/femboy 2.png","ascent": 7,"height": 7, "chars": ["\uE421"]},
-        {"type": "bitmap", "file": "minecraft:font/ranks/femboy 3.png","ascent": 7,"height": 7, "chars": ["\uE422"]},
-        {"type": "bitmap", "file": "minecraft:font/ranks/femboy 4.png","ascent": 7,"height": 7, "chars": ["\uE423"]},
-        {"type": "bitmap", "file": "minecraft:font/ranks/femboy 5.png","ascent": 7,"height": 7, "chars": ["\uE424"]}
+		{"type": "bitmap", "file": "minecraft:font/ranks/femboy1.png","ascent": 7,"height": 7, "chars": ["\uE420"]},
+		{"type": "bitmap", "file": "minecraft:font/ranks/femboy2.png","ascent": 7,"height": 7, "chars": ["\uE421"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/femboy3.png","ascent": 7,"height": 7, "chars": ["\uE422"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/femboy4.png","ascent": 7,"height": 7, "chars": ["\uE423"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/femboy5.png","ascent": 7,"height": 7, "chars": ["\uE424"]}
 	]
 }

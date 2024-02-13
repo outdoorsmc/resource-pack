@@ -1,0 +1,5 @@
+{
+	"providers": [
+		{"type": "bitmap", "file": "minecraft:font/ranks/femboy.png","ascent": 7,"height": 7, "chars": ["\uE420"]}
+	]
+}

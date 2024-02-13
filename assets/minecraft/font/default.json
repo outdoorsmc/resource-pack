@@ -1,10 +1,12 @@
 {
 	"providers": [
-		{"type": "bitmap", "file": "minecraft:font/ranks/femboy1.png","ascent": 7,"height": 7, "chars": ["\uE420"]},
-		{"type": "bitmap", "file": "minecraft:font/ranks/femboy2.png","ascent": 7,"height": 7, "chars": ["\uE421"]},
-        {"type": "bitmap", "file": "minecraft:font/ranks/femboy3.png","ascent": 7,"height": 7, "chars": ["\uE422"]},
-        {"type": "bitmap", "file": "minecraft:font/ranks/femboy4.png","ascent": 7,"height": 7, "chars": ["\uE423"]},
-        {"type": "bitmap", "file": "minecraft:font/ranks/femboy5.png","ascent": 7,"height": 7, "chars": ["\uE424"]},
-        {"type": "bitmap", "file": "minecraft:font/ranks/femboy6.png","ascent": 7,"height": 7, "chars": ["\uE425"]}
+		{"type": "bitmap", "file": "minecraft:font/ranks/star.png","ascent": 7,"height": 7, "chars": ["\uE000"]},
+		{"type": "bitmap", "file": "minecraft:font/ranks/star+.png","ascent": 7,"height": 7, "chars": ["\uE001"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/nova.png","ascent": 7,"height": 7, "chars": ["\uE002"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/nova+.png","ascent": 7,"height": 7, "chars": ["\uE003"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/astral.png","ascent": 7,"height": 7, "chars": ["\uE004"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/astral+.png","ascent": 7,"height": 7, "chars": ["\uE005"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/celestial.png","ascent": 7,"height": 7, "chars": ["\uE006"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/celestial+.png","ascent": 7,"height": 7, "chars": ["\uE007"]}
 	]
 }

@@ -4,6 +4,7 @@
 		{"type": "bitmap", "file": "minecraft:font/ranks/femboy2.png","ascent": 7,"height": 7, "chars": ["\uE421"]},
         {"type": "bitmap", "file": "minecraft:font/ranks/femboy3.png","ascent": 7,"height": 7, "chars": ["\uE422"]},
         {"type": "bitmap", "file": "minecraft:font/ranks/femboy4.png","ascent": 7,"height": 7, "chars": ["\uE423"]},
-        {"type": "bitmap", "file": "minecraft:font/ranks/femboy5.png","ascent": 7,"height": 7, "chars": ["\uE424"]}
+        {"type": "bitmap", "file": "minecraft:font/ranks/femboy5.png","ascent": 7,"height": 7, "chars": ["\uE424"]},
+        {"type": "bitmap", "file": "minecraft:font/ranks/femboy6.png","ascent": 7,"height": 7, "chars": ["\uE425"]}
 	]
 }
